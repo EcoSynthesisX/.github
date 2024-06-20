@@ -82,7 +82,7 @@ Stats:
 
 EcoSynthesisX is a vibrant Web3 IRL startup with a robust team and a clear vision. Our projects aim to create new products, foster collaborations, and drive significant social impact. With your support, we can transform innovative ideas into reality and contribute to a better future.
 
-- [Support on Giveth.io via EVM, Solana and other chains and get $GIVbacks up to 70% on your donation!](https://giveth.io/project/ecosynthesisx-empowering-change-with-blockchain)
+- [Support on Giveth.io via EVM, Solana and other chains and get $GIVbacks up to 77% on your donation!](https://giveth.io/project/ecosynthesisx-empowering-change-with-blockchain)
 - [Support on PotLock.org via NEAR](https://app.potlock.org/?tab=project&projectId=ecosynthesisx.near&referrerId=paul_burg.near)
 
 - [Proof of work on Karma](https://gap.karmahq.xyz/project/ecosynthesisx-1)
