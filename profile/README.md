@@ -71,7 +71,8 @@ Stats:
 - Paul - Founder and CEO, manages grants/donations, design, and tool implementation
 - Anastasia - Co-founder, manages SMM, community, ImpactNFT, and DeCleanUP
 - Badre - Developer
-- Mark and Alisa - Graphic designers
+- Mark - Art Director
+- Alisa - Graphic designer
 
 **Past Contributors:**
 - Leo (AQ AI assistant)
