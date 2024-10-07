@@ -2,6 +2,10 @@
 
 At EcoSynthesisX, we're using the latest Web3 and blockchain technology to make a real difference. We have exciting projects like Impact Products Collections and our Impact Marketplace, which highlights the positive contributions people are making through our IRL Impact Rank. We're improving the way IRL public goods are funded.
 
+## 🗞️ Mirror.xyz Articles
+#### [Taking Notes on the Development of a Global Impact MarketTaking Notes on the Development of a Global Impact Market](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo)
+#### [Clean Phangan Impact Product: converting cleanups into capital](https://mirror.xyz/ecosynthesisx.eth/lBc13WGdIsnOI5t6w0AMcjWL_mqx9kFR0548Ft14ptM)
+
 ## 🌟 Impact Products Collections for NGOs and Communities
 
 #### 💡 [Project Description](https://github.com/EcoSynthesisX/EcoSyntesisX-Impact-NFTs/blob/main/README.md)
