@@ -88,17 +88,16 @@ Stats:
 
 EcoSynthesisX is a vibrant Web3 IRL startup with a robust team and a clear vision. Our projects aim to create new products, foster collaborations, and drive significant social impact. With your support, we can transform innovative ideas into reality and contribute to a better future.
 
-- [Support on Giveth.io via EVM, Solana and other chains and get $GIVbacks up to 77% on your donation!](https://giveth.io/project/ecosynthesisx-empowering-change-with-blockchain)
+- [Support on Giveth.io via EVM, Solana and other chains](https://giveth.io/project/ecosynthesisx-empowering-change-with-blockchain)
 - [Support on PotLock.org via NEAR](https://app.potlock.org/?tab=project&projectId=ecosynthesisx.near&referrerId=paul_burg.near)
 
 - [Proof of work on Karma](https://gap.karmahq.xyz/project/ecosynthesisx-1)
 
 ## 🏆 Achievements to Date
 
-- Released our first Impact Product collection
-- Released the DeCleanUp Rewards dApp
+- Released Clean Phangan Impact Product collection
+- Released the DeCleanUp dApp
 - Finished the EcoSynthesisX Spring QF
-- Created and activated the RegenRu community
 - Secured ~$30k last year
 - Acted as sponsors and matching pool donors for HyperDeSci matching pool, ReFi DAO Local Node matching pool, EcoSynthesisX QF matching pool, ReFi Phangan & GreenPill Phangan support, and became a Glo Consortium member
 
@@ -115,4 +114,4 @@ EcoSynthesisX is a vibrant Web3 IRL startup with a robust team and a clear visio
 - [X](https://twitter.com/EcoSynthesisX)
 - [Guild.xyz](https://guild.xyz/ecosynthesisx)
 - [Clean Phangan ImpactNFT](https://cleanphangan.impactnft.xyz)
-- [Snapshot proposals](https://snapshot.org/#/ecosynthesisx.eth)
+- [DeCleanup dApp](https://decleanup.net/)
