@@ -11,8 +11,10 @@
 We have the vision and we're workin hard, dedicated and consistent to deliver the products for in real life NGOs and Communities. With your support, we can transform innovative ideas into reality and contribute to a better future.
 
 ## 🗞️ Mirror.xyz Articles
-#### [Taking Notes on the Development of a Global Impact MarketTaking Notes on the Development of a Global Impact Market](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo)
-#### [Clean Phangan Impact Product: converting cleanups into capital](https://mirror.xyz/ecosynthesisx.eth/lBc13WGdIsnOI5t6w0AMcjWL_mqx9kFR0548Ft14ptM)
+
+#### 📕 [Taking Notes on the Development of a Global Impact MarketTaking Notes on the Development of a Global Impact Market](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo)
+
+#### 📗 [Clean Phangan Impact Product: converting cleanups into capital](https://mirror.xyz/ecosynthesisx.eth/lBc13WGdIsnOI5t6w0AMcjWL_mqx9kFR0548Ft14ptM)
 ----------------------------------------
 
 ## Problems: 
