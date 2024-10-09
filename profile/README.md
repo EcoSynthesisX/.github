@@ -2,6 +2,8 @@
 
 ## 💰 Why Funding EcoSynthesisX?
 
+✅ Pioneering tokenization of RWI (real world impact)
+
 ✅ Blockchain adoption in real life
 
 ✅ Visionaries+Devs to irl Impact Creators VS Devs to Devs VS Devs to Degen Retail
