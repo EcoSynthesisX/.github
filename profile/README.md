@@ -1,29 +1,47 @@
-# EcoSynthesisX: Driving Real-World Impact through Web3 and Blockchain
-
 ## EcoSynthesisX is a Web3 public good studio collaborating with real-world NGOs and community organizations to drive impactful change through blockchain technology
 
+
+
 	🌱 Pioneering the Tokenization of Real-World Impact (RWI)
+
  
+
 	🌎 Bringing Blockchain Technology to Life, for Life
+
  
+
 	🤝 Connecting Visionaries and Developers to Real-World Impact
+
  
+
 	📈 Public Good, Profitably Sustainable
+
 
 
 We have the vision and we're workin hard, dedicated and consistent to deliver the products for in real life NGOs and Communities. With your support, we can transform innovative ideas into reality and contribute to a better future.
 
+
+
 ## 🗞️ Mirror.xyz Articles
+
+
 
 #### 📕 [Taking Notes on the Development of a Global Impact MarketTaking Notes on the Development of a Global Impact Market](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo)
 
+
+
 #### 📗 [Clean Phangan Impact Product: converting cleanups into capital](https://mirror.xyz/ecosynthesisx.eth/lBc13WGdIsnOI5t6w0AMcjWL_mqx9kFR0548Ft14ptM)
+
 ----------------------------------------
+
+
 
 ## Problems: 
 
 * Not enough funding for in real life NGOs and Communities
+
 * Leak of motivation for potential investors
+
 * No infrastructure for selling IRL NGOs and Communities products
 
 ## Vision:
@@ -34,11 +52,17 @@ This model channels on-chain/Off-chain capital directly into the hands of nonpro
 
 ------------------------------------
 
+
+
 ## 🌟 Impact Products Collections 
+
+
 
 ### 🗑️ Impact Products Collection for Clean Phangan Community (Released!)
 
 https://cp.impactproduct.xyz
+
+
 
 ### ♻️ Impact Products Collection for EcoThailand Foundation (in development)
 
@@ -48,11 +72,15 @@ https://et.impactproduct.xyz (in development)
 
 ----------------------------
 
+
+
 ## 🌟 Impact Marketplace (in development)
 
-Read our Mirror.xyz articles to get more. Whitepaper is coming
+Check out our Public Presentation to get more https://www.canva.com/design/DAGUpUElfUM/dHEnkmLUVSFmZZpJNLtD8w/view
 
 ----------------------------
+
+
 
 ## 🧹 DeCleanup Reward dApp for DeCleanup Network
 
@@ -63,31 +91,54 @@ https://decleanup.net
 ## 👩‍🔬 Team Members [Contributing/Contributed]
 
 - Paul - Founder and CEO
+
 - Anastasia - Co-founder and COO
+
 - Badre - Developer
+
 - Semen - Developer
+
 - Mark - Art Director
+
 - Alisa - Graphic designer
 
-**Past Contributors:**
+
+
+Past Contributors:
+
 - Leo (AQ AI assistant)
+
 - Phil (AQ AI assistant; Impact Product Clean Phangan)
+
 - Max (Project Management)
+
+
 
 ## Donate to us via:
 
 - [Support on Giveth.io via EVM, Solana and other chains](https://giveth.io/project/ecosynthesisx-empowering-change-with-blockchain)
+
 - [Support on PotLock.org via NEAR](https://app.potlock.org/?tab=project&projectId=ecosynthesisx.near&referrerId=paul_burg.near)
+
+
 
 ## 🏆 Achievements to Date & Project Roadmap
 
 Check out our achievements and upcoming goals on Karma.Gap: past, present, and future milestones driving EcoSynthesisX forward! https://gap.karmahq.xyz/project/ecosynthesisx-irl-impact--web3-for-better-future
 
+
+
 ## 🌐 Contact and More Information
 
 - [GitHub](https://github.com/EcoSynthesisX)
+
 - [Discord](https://discord.gg/EcoSynthesisX)
+
 - [X](https://twitter.com/EcoSynthesisX)
+
 - [Guild.xyz](https://guild.xyz/ecosynthesisx)
+
 - [Clean Phangan ImpactNFT](https://cleanphangan.impactnft.xyz)
+
 - [DeCleanup dApp](https://decleanup.net/)
+
