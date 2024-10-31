@@ -79,19 +79,9 @@ https://decleanup.net
 - [Support on Giveth.io via EVM, Solana and other chains](https://giveth.io/project/ecosynthesisx-empowering-change-with-blockchain)
 - [Support on PotLock.org via NEAR](https://app.potlock.org/?tab=project&projectId=ecosynthesisx.near&referrerId=paul_burg.near)
 
-## 🏆 Achievements to Date
+## 🏆 Achievements to Date & Project Roadmap
 
-- Released Clean Phangan Impact Product collection
-- Released the DeCleanup dApp
-- Finished the EcoSynthesisX Spring QF
-- Secured ~$30k last year
-- Acted as sponsors and matching pool donors for HyperDeSci matching pool, ReFi DAO Local Node matching pool, EcoSynthesisX QF matching pool, ReFi Phangan & GreenPill Phangan support, and became a Glo Consortium member
-
-## 🗺️ Project Roadmap
-
-- Next month: Release 2nd Impact Product collections
-- After the 2rd Impact Product collection: Start developing the Impact marketplace
-- low priority for EcoSynthesisX website v.1,
+Check out our achievements and upcoming goals on Karma.Gap: past, present, and future milestones driving EcoSynthesisX forward! https://gap.karmahq.xyz/project/ecosynthesisx-irl-impact--web3-for-better-future
 
 ## 🌐 Contact and More Information
 
