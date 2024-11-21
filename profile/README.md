@@ -64,19 +64,6 @@ https://decleanup.net
 
 -----------------------------
 
-## 👩‍🔬 Team Members [Contributing/Contributed]
-
-- Paul - Founder and CEO
-
-- Anastasia - Co-founder and COO
-
-- Badre - Developer
-
-- Semen - Developer
-
-- Mark - Art Director
-
-- Alisa - Graphic designer
 
 
 ## Donate to us via:
