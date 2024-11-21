@@ -16,6 +16,14 @@ We have the vision and we're workin hard, dedicated and consistent to deliver th
 
 #### 📗 [Clean Phangan Impact Product: converting cleanups into capital](https://mirror.xyz/ecosynthesisx.eth/lBc13WGdIsnOI5t6w0AMcjWL_mqx9kFR0548Ft14ptM)
 
+## 🎙 Interview with Supra.com
+
+#### 🎥 [Super dApp Builders EP01 with Paul Burg](https://youtu.be/zVgZX1Nj48E?si=W4KYFuUJ4QGZUISD)
+
+## 🔍 Public Pitch Deck about our web3 public good studio
+
+#### 📑 [Check it out here via Canva](https://www.canva.com/design/DAGUpUElfUM/dHEnkmLUVSFmZZpJNLtD8w/view)
+
 ----------------------------------------
 ## Problems: 
 
@@ -50,17 +58,19 @@ https://et.impactproduct.xyz (in development)
 
 
 
-## 🌟 Impact Marketplace (in development)
+### 🌟 ReGen Bazaar as Layer 1 of our Impact Marketplace vision (in development)
 
-Check out our Public Presentation to get more https://www.canva.com/design/DAGUpUElfUM/dHEnkmLUVSFmZZpJNLtD8w/view
+📑 [Check out our Public Presentation to get more via Canva](https://www.canva.com/design/DAGUpUElfUM/dHEnkmLUVSFmZZpJNLtD8w/view)
 
 ----------------------------
 
 
 
-## 🧹 DeCleanup Reward dApp for DeCleanup Network
+### 🧹 DeCleanup Reward dApp for DeCleanup Network
 
-https://decleanup.net
+🌐 https://decleanup.net
+
+🧑‍💻 [Looking for public good Devs. DeCleanup dApp tasks on Only Dust](https://app.onlydust.com/p/decleanup-dapp-v2)
 
 -----------------------------
 
@@ -90,4 +100,3 @@ Check out our achievements and upcoming goals on [Karma.Gap](https://gap.karmahq
 - [Clean Phangan Impact Product](https://cp.impactproduct.xyz)
 
 - [DeCleanup dApp](https://decleanup.net/)
-
