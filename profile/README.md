@@ -1,4 +1,4 @@
-## EcoSynthesisX is a Web3 public good studio collaborating with real-world NGOs and community organizations to drive impactful change through blockchain technology
+## EcoSynthesisX is a Web3 public good studio that drives real-world impact by leveraging blockchain and Web3 to onboard and empower on-ground nonprofits
 
 🌱 Pioneering the Tokenization of Real-World Impact (RWI)
 
@@ -15,6 +15,13 @@ We have the vision and we're workin hard, dedicated and consistent to deliver th
 #### 📕 [Taking Notes on the Development of a Global Impact MarketTaking Notes on the Development of a Global Impact Market](https://mirror.xyz/ecosynthesisx.eth/zOdeuaeFfJUFScZZKu1OGF7cWCiRgUHQSGE-14cf8fo)
 
 #### 📗 [Clean Phangan Impact Product: converting cleanups into capital](https://mirror.xyz/ecosynthesisx.eth/lBc13WGdIsnOI5t6w0AMcjWL_mqx9kFR0548Ft14ptM)
+
+## 🎙 Interviews and Speeches
+
+
+#### 🎥 [Super dApp Builders EP01 with Paul Burg](https://youtu.be/zVgZX1Nj48E)
+
+#### 🎥 [Impact Products & Impact Marketplace | DevCon SEA 2024 | Regen Hub](https://youtu.be/bmrc4CB4yKg)
 
 ----------------------------------------
 
@@ -35,7 +42,7 @@ https://cp.impactproduct.xyz
 
 🌐 [EcoThailand Foundation](https://ecothailand.org)
 
-https://et.impactproduct.xyz (in development)
+https://et.impactproduct.xyz (releasing on pause)
 
 ----------------------------
 
@@ -43,9 +50,16 @@ https://et.impactproduct.xyz (in development)
 
 ## 🌟 Regen Bazaar (in development)
 
+- [Landing page for nonprofits to apply for tokenization of RWI](https://regenbazaar.com)
+- [Demo page to showcase basic user flow](https://demo.regenbazaar.com)
+- [Detailed Phase #1 Roadmap](https://github.com/Regen-Bazaar/Litepaper/blob/main/Phase%20%231%20(detailed).md)
+
+- [Github](https://github.com/Regen-Bazaar)
 - [Litepaper](https://github.com/EcoSynthesisX/RegenBazaar-Litepaper)
 - [PitchDeck](https://www.canva.com/design/DAGXq0haF_Y/4_8NIQ5niLD_saONKTuYig/view)
 - [Token Sale](https://juicebox.money/v2/p/791)
+
+- [Public Telegram Group](t.me/regen_bazaar)
 ----------------------------
 
 
@@ -54,18 +68,13 @@ https://et.impactproduct.xyz (in development)
 
 https://decleanup.net
 
+[X account](https://x.com/DeCleanupNet)
+
+[Github](https://github.com/DeCleanup-Network)
+
+[Karma GAP](https://gap.karmahq.xyz/project/decentralized-cleanup-network-decleanup-network/funding)
+
 -----------------------------
-
-## 👩‍🔬 Team Members [Contributing/Contributed]
-
-- Paul - Founder and CEO
-
-- Anastasia - Co-founder and COO
-
-- Mark - Art Director
-
-- Alisa - Graphic designer
-
 
 ## Donate to us via:
 
